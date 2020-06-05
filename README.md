@@ -6,4 +6,4 @@ Wszystkie skrypty uruchamiają się na bazie Oracle 11g.
 
 Projekt powstał w ramach przedmiotu Bazy Danych 1, realizowanego w semestrze
 letnim 2020, na 4 semestrze kierunku Informatyka na Wydziale Elektroniki 
-i Technik Informacyjnych Politechniki Warszawskiej
+i Technik Informacyjnych Politechniki Warszawskiej.
